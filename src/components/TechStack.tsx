@@ -16,14 +16,14 @@ const textureLoader = new THREE.TextureLoader();
 /* DEVOPS TECH STACK IMAGES */
 
 const imageUrls = [
-  "/images/Azure",
-  "/images/Azuredevops",
-  "/images/Docker",
-  "/images/cicd",
-  "/images/git",
-  "/images/linux",
-  "/images/mysql",
-  "/images/python",
+  "/images/azure.png",
+  "/images/azuredevops.png",
+  "/images/docker.png",
+  "/images/cicd.png",
+  "/images/git.png",
+  "/images/linux.png",
+  "/images/postgres.png",
+  "/images/python.png",
 ];
 
 const textures = imageUrls.map((url) => textureLoader.load(url));

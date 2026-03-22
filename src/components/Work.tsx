@@ -8,7 +8,7 @@ const projects = [
     title: "Azure DevOps CI/CD Pipeline",
     category: "Cloud DevOps Automation",
     tools: "Azure DevOps, Docker, Python, CI/CD Pipelines",
-    image: "public/images/devops.png",
+    image: "public/images/project1.png",
   },
   {
     title: "E-Commerce Cloud Deployment",
