@@ -8,32 +8,31 @@ const projects = [
     title: "Azure DevOps CI/CD Pipeline",
     category: "Cloud DevOps Automation",
     tools: "Azure DevOps, Docker, Python, CI/CD Pipelines",
-    image: "public/images/project1.png",
+    image: "/images/project1.png",
   },
   {
     title: "E-Commerce Cloud Deployment",
     category: "Cloud Microservices Application",
     tools: "Azure App Service, Docker, PostgreSQL, Redis",
-    image: "/public/images/ecommerce.png"
-
+    image: "/images/ecommerce.png",
   },
   {
     title: "Student Club Website",
     category: "Cloud Hosted Web Platform",
     tools: "Azure, GitHub, CI/CD, Web Deployment",
-    image: "public/images/studentclub.png"
+    image: "/images/studentclub.png",
   },
   {
     title: "Azure Key Vault Integration",
     category: "Secure Secrets Management",
     tools: "Azure Key Vault, Azure DevOps, Pipelines",
-    image: "/public/images/keyvault.png",
+    image: "/images/keyvault.png",
   },
   {
     title: "Containerized Python Application",
     category: "Dockerized Cloud Deployment",
     tools: "Docker, Python, Azure Container Registry",
-    image: "public/images/docker.png"
+    image: "/images/docker.png",
   },
 ];
 

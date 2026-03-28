@@ -24,6 +24,18 @@ const imageUrls = [
   "/images/linux.png",
   "/images/postgres.png",
   "/images/python.png",
+  "/images/ansible.png",
+  "/images/terraform.png",
+  "/images/maven.png",
+  "/images/prometheus.png",
+  "/images/grafana.png",
+  "/images/jenkins.png",
+  "/images/k8.png",
+  "/images/sonarqube.png",
+  "/images/nexus.png",
+  "/images/cicd.png",
+  "/images/github.png",
+
 ];
 
 const textures = imageUrls.map((url) => textureLoader.load(url));
